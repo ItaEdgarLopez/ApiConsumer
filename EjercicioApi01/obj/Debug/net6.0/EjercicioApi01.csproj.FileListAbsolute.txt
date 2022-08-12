@@ -1,0 +1,15 @@
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\bin\Debug\net6.0\EjercicioApi01.exe
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\bin\Debug\net6.0\EjercicioApi01.deps.json
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\bin\Debug\net6.0\EjercicioApi01.runtimeconfig.json
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\bin\Debug\net6.0\EjercicioApi01.dll
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\bin\Debug\net6.0\EjercicioApi01.pdb
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.csproj.AssemblyReference.cache
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.AssemblyInfoInputs.cache
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.AssemblyInfo.cs
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.csproj.CoreCompileInputs.cache
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.dll
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\refint\EjercicioApi01.dll
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.pdb
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\EjercicioApi01.genruntimeconfig.cache
+C:\Users\lovae\source\repos\EjercicioApi01\EjercicioApi01\obj\Debug\net6.0\ref\EjercicioApi01.dll
